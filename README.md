@@ -8,6 +8,6 @@ I created the se files while learning the fundamentals of programming and data h
 - Lists, Tuples,Dictionaries and Matrix multiplication
 - Functions and Scope
 - practice programming from lectures 
-.....
+......
 
 **Note:** All notebooks are my own work, created for practice and understanding of python basics.
